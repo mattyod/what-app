@@ -1,5 +1,5 @@
 {
-    "name": "whatApp",
+    "name": "what-app",
     "description": "Return name of parent app from package.json",
     "version": "0.0.1",
     "keywords": [],
@@ -13,7 +13,7 @@
     "bugs": {
         "url": "https://github.com/mattyod/whatApp/issues"
     },
-    "main": "./whatapp.js",
+    "main": "./what-app.js",
     "devDependencies": {
         "mocha": "1.13.x",
         "sinon": "1.7.x",
