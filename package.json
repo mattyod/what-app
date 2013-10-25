@@ -8,10 +8,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/mattyod/whatApp"
+        "url": "https://github.com/mattyod/what-app"
     },
     "bugs": {
-        "url": "https://github.com/mattyod/whatApp/issues"
+        "url": "https://github.com/mattyod/what-app/issues"
     },
     "main": "./what-app.js",
     "devDependencies": {
