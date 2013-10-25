@@ -1,0 +1,30 @@
+{
+    "name": "whatApp",
+    "description": "Return name of parent app from package.json",
+    "version": "0.0.1",
+    "keywords": [],
+    "author": {
+        "name": "Matthew O'Donoghue"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mattyod/whatApp"
+    },
+    "bugs": {
+        "url": "https://github.com/mattyod/whatApp/issues"
+    },
+    "main": "./whatapp.js",
+    "devDependencies": {
+        "mocha": "1.13.x",
+        "sinon": "1.7.x",
+        "chai": "1.7.x",
+        "sinon-chai": "2.4.x"
+    },
+    "scripts": {
+        "test": "mocha --reporter tap test"
+    },
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.3.x"
+    }
+}
