@@ -5,8 +5,7 @@ module.exports = (function () {
 
     name = process.mainModule.filename
         .split(/\//)
-        .pop()
-        .replace(/\d/);
+        .pop();
 
     return name[0].toUpperCase() + name.slice(1);
 

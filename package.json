@@ -1,7 +1,7 @@
 {
     "name": "what-app",
     "description": "Return name of parent app from package.json",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "keywords": [],
     "author": {
         "name": "Matthew O'Donoghue"
